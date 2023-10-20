@@ -1,0 +1,14 @@
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\bin\Debug\net6.0\Observer_Navrh_Vzor.exe
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\bin\Debug\net6.0\Observer_Navrh_Vzor.deps.json
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\bin\Debug\net6.0\Observer_Navrh_Vzor.runtimeconfig.json
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\bin\Debug\net6.0\Observer_Navrh_Vzor.dll
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\bin\Debug\net6.0\Observer_Navrh_Vzor.pdb
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.AssemblyInfoInputs.cache
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.AssemblyInfo.cs
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.dll
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\refint\Observer_Navrh_Vzor.dll
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.pdb
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\Observer_Navrh_Vzor.genruntimeconfig.cache
+C:\Users\Dominik\source\repos\Observer_Navrh_Vzor\Observer_Navrh_Vzor\obj\Debug\net6.0\ref\Observer_Navrh_Vzor.dll
